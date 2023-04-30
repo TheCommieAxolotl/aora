@@ -19,6 +19,7 @@ specifiers:
   typescript: ^4.9.4
   undici: ^5.15.1
   vite: ^4.1.4
+  vscode-oniguruma: ^1.7.0
 
 dependencies:
   '@solidjs/meta': 0.28.4_solid-js@1.7.3
@@ -28,6 +29,7 @@ dependencies:
   solid-start: 0.2.26_jjttyli7e42nw7nuih42omgpgm
   solid-start-vercel: 0.2.26_ebn5jcnlpsg6tggnbs7r73hsm4
   undici: 5.22.0
+  vscode-oniguruma: 1.7.0
 
 devDependencies:
   '@primer/octicons': 18.3.0
@@ -3463,7 +3465,6 @@ packages:
 
   /vscode-oniguruma/1.7.0:
     resolution: {integrity: sha512-L9WMGRfrjOhgHSdOYgCt/yRMsXzLDJSL7BPrOZt73gU0iWO4mpqzqQzOz5srxqTvMBaR0XZTSrVWo4j55Rc6cA==}
-    dev: true
 
   /vscode-textmate/9.0.0:
     resolution: {integrity: sha512-Cl65diFGxz7gpwbav10HqiY/eVYTO1sjQpmRmV991Bj7wAoOAjGQ97PpQcXorDE2Uc4hnGWLY17xme+5t6MlSg==}
